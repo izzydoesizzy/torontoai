@@ -1,22 +1,19 @@
 # TorontoAI
 > A list of meetups, conferences, companies, and influencers in the Toronto Artificial Intelligence, Deep Learning, Neural Networks, and Machine Learning space.
 
+_Please read the [contribution guidelines](/contributing.md) before contributing._
+
 
 ## Index
-- [Conferences](#conferences)
-- [Startup Incubators](#incubators)
 - [Meetups](#meetups)
 - [Companies](#companies)
 - [Influencers](#influencers)
+- [Conferences](#conferences)
+- [Startup Incubators](#incubators)
 - [Learning Resources](#learning)
 
 <hr>
 
-### Conferences	
-- [AI Toronto](http://www.aitoronto.org/)	
-
-### Incubators
-- [NextAI (NEXTCanada)](http://www.nextai.com/)
 
 ### Meetups
 - [Toronto Artificial Intelligence Deep Learning](https://www.meetup.com/Toronto-Artificial-Intelligence-Deep-Learning/)
@@ -31,14 +28,14 @@
 - [IBM Big Data University Meetup](https://www.meetup.com/BDU-Toronto/)
 
 ### Companies
-- [Kindred](https://www.kindred.ai/)
-- [Pax Cultura](https://paxculturastudios.com/)
-- [Rubikloud](http://rubikloud.com/)
-- [Verve.ai](http://verve.ai)
-- [Zoom.ai](http://zoom.ai)
-- [BlueJLegal](http://www.bluejlegal.com/)
-- [Atomwise](http://www.atomwise.com/)
-- [Clarifai](https://clarifai.com/)
+- [Kindred](https://www.kindred.ai/) - Exploring and engineering systems that enable robots to understand and participate in our world
+- [Pax Cultura](https://paxculturastudios.com/) - Software design and programming that invests in original product development.
+- [Rubikloud](http://rubikloud.com/) - Empowering Retailers with Data-Driven Decisions
+- [Verve.ai](http://verve.ai) - Augmented Intelligence Automation for Customer Centric Companies
+- [Zoom.ai](http://zoom.ai) - Automated Assistant for Everyone in the Office
+- [BlueJLegal](http://www.bluejlegal.com/) - Machine learning to identify patterns in case law.
+- [Atomwise](http://www.atomwise.com/) - Deep Learning technology for novel small molecule discovery
+- [Clarifai](https://clarifai.com/) - Sophisticated machine learning to classify images/videos
 - [see more on AngelList](https://angel.co/companies?locations[]=1702-Toronto&keywords=artificial+intelligence)
 
 ### Influencers
@@ -52,6 +49,12 @@
 - Sanja Fidler
 - Abraham Heifets
 
+### Conferences	
+- [AI Toronto](http://www.aitoronto.org/)	
+
+### Incubators
+- [NextAI (NEXTCanada)](http://www.nextai.com/)
+
 ### Learning Resources
 - [IBM Big Data University](https://bigdatauniversity.com/)
 
@@ -63,5 +66,4 @@ To the extent possible under law, [Iskender Piyale-Sheard](http://izzydoesizzy.c
 
 <hr>
 
-- [Twitter](http://www.twitter.com/izzydoesizzy) 
-- [LinkedIn](https://www.linkedin.com/in/izzydoesizzy/)
+[IzzyDoesIzzy](http://www.izzydoesizzy.com) | [Twitter](http://www.twitter.com/izzydoesizzy) | [LinkedIn](https://www.linkedin.com/in/izzydoesizzy/)
