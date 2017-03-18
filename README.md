@@ -3,7 +3,6 @@
 
 _Please read the [contribution guidelines](/contributing.md) before contributing._
 
-
 ## Index
 Click on the following links to skip to the relevant section.
 - [Meetups](#meetups)
@@ -15,40 +14,39 @@ Click on the following links to skip to the relevant section.
 
 <hr>
 
-
 ### Meetups
-- [Toronto Artificial Intelligence Deep Learning](https://www.meetup.com/Toronto-Artificial-Intelligence-Deep-Learning/)
-- [Toronto Artificial Intelligence Meetup](https://www.meetup.com/Toronto-Artificial-Intelligence-Meetup/)
+- [Advanced Spark, DeepLearning and Tensorflow Meetup](https://www.meetup.com/Advanced-Spark-DeepLearni-ng-and-TensorFlow-Meetup/)
 - [Artificial Intelligence North](https://www.meetup.com/AINorth/)
+- [Big Data Developers Toronto](https://www.meetup.com/Big-Data-Developers-in-Toronto/)
 - [Chatbots & AI Meetup](https://www.meetup.com/Chatbots-and-AI-Meetup/)
 - [Deep Learning Toronto Meetup](https://www.meetup.com/Deep-Learning-Toronto-Meetup/)
-- [Toronto AI](https://www.meetup.com/Toronto-AI/)
-- [Advanced Spark, DeepLearning and Tensorflow Meetup](https://www.meetup.com/Advanced-Spark-DeepLearni-ng-and-TensorFlow-Meetup/)
-- [Big Data Developers Toronto](https://www.meetup.com/Big-Data-Developers-in-Toronto/)
-- [Machine Learning TO Meetup](https://www.meetup.com/Machine-Learning-TO-Meetup/events/238345165/)
 - [IBM Big Data University Meetup](https://www.meetup.com/BDU-Toronto/)
+- [Toronto AI](https://www.meetup.com/Toronto-AI/)
+- [Machine Learning TO Meetup](https://www.meetup.com/Machine-Learning-TO-Meetup/events/238345165/)
+- [Toronto Artificial Intelligence Deep Learning](https://www.meetup.com/Toronto-Artificial-Intelligence-Deep-Learning/)
+- [Toronto Artificial Intelligence Meetup](https://www.meetup.com/Toronto-Artificial-Intelligence-Meetup/)
 
 ### Companies
+- [Atomwise](http://www.atomwise.com/) - Deep Learning technology for novel small molecule discovery
+- [BlueJLegal](http://www.bluejlegal.com/) - Machine learning to identify patterns in case law.
+- [Clarifai](https://clarifai.com/) - Sophisticated machine learning to classify images/videos
 - [Kindred](https://www.kindred.ai/) - Exploring and engineering systems that enable robots to understand and participate in our world
 - [Pax Cultura](https://paxculturastudios.com/) - Software design and programming that invests in original product development.
 - [Rubikloud](http://rubikloud.com/) - Empowering Retailers with Data-Driven Decisions
 - [Verve.ai](http://verve.ai) - Augmented Intelligence Automation for Customer Centric Companies
 - [Zoom.ai](http://zoom.ai) - Automated Assistant for Everyone in the Office
-- [BlueJLegal](http://www.bluejlegal.com/) - Machine learning to identify patterns in case law.
-- [Atomwise](http://www.atomwise.com/) - Deep Learning technology for novel small molecule discovery
-- [Clarifai](https://clarifai.com/) - Sophisticated machine learning to classify images/videos
 - [see more on AngelList](https://angel.co/companies?locations[]=1702-Toronto&keywords=artificial+intelligence)
 
 ### Influencers
+- Abraham Heifets
 - David Scharbach
 - Geordie Rose
-- James Bergstra
 - Inmar Givoni
+- James Bergstra
 - Joelle Pineau
 - Matt Zeiler
 - Raquel Urtasun
 - Sanja Fidler
-- Abraham Heifets
 
 ### Conferences	
 - [AI Toronto](http://www.aitoronto.org/)	
