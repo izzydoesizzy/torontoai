@@ -5,6 +5,7 @@ _Please read the [contribution guidelines](/contributing.md) before contributing
 
 
 ## Index
+Click on the following links to skip to the relevant section.
 - [Meetups](#meetups)
 - [Companies](#companies)
 - [Influencers](#influencers)
@@ -55,7 +56,7 @@ _Please read the [contribution guidelines](/contributing.md) before contributing
 ### Incubators
 - [NextAI (NEXTCanada)](http://www.nextai.com/)
 
-### Learning Resources
+### Learning
 - [IBM Big Data University](https://bigdatauniversity.com/)
 
 ## License
