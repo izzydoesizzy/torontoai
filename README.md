@@ -46,4 +46,5 @@
 To the extent possible under law, [Iskender Piyale-Sheard](http://izzydoesizzy.com) has waived all copyright and related or neighboring rights to this work.
 
 <hr>
-[Twitter](http://www.twitter.com/izzydoesizzy) [LinkedIn](https://www.linkedin.com/in/izzydoesizzy/)
+[Twitter](http://www.twitter.com/izzydoesizzy) 
+[LinkedIn](https://www.linkedin.com/in/izzydoesizzy/)
