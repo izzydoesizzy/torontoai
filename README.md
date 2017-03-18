@@ -64,12 +64,6 @@ _Please read the [contribution guidelines](/contributing.md) before contributing
 
 To the extent possible under law, [Iskender Piyale-Sheard](http://izzydoesizzy.com) has waived all copyright and related or neighboring rights to this work.
 
-<hr>
-
-This project was developed by Iskender Piyale-Sheard (aka: Izzy), the Community Manager at [Lighthouse Labs](http://bit.ly/izzydoesizzygithub) as a fun side project. 
-
-Come say hi on Twitter [@izzydoesizzy](http://www.twitter.com/izzydoesizzy)! 
-
 ----
 > Iskender Piyale-Sheard: [www.izzydoesizzy.com](https://www.izzydoesizzy.com/) &nbsp;&middot;&nbsp;
 > LinkedIn: [@izzydoesizzy](https://www.linkedin.com/in/izzydoesizzy) &nbsp;&middot;&nbsp;
