@@ -27,15 +27,28 @@ Click on the following links to skip to the relevant section.
 - [Toronto Artificial Intelligence Meetup](https://www.meetup.com/Toronto-Artificial-Intelligence-Meetup/)
 
 ### Companies
-- [Atomwise](http://www.atomwise.com/) - Deep Learning technology for novel small molecule discovery
+- [Atomwise](http://www.atomwise.com/) - Deep Learning technology for novel small molecule discovery.
 - [BlueJLegal](http://www.bluejlegal.com/) - Machine learning to identify patterns in case law.
-- [Clarifai](https://clarifai.com/) - Sophisticated machine learning to classify images/videos
-- [Kindred](https://www.kindred.ai/) - Exploring and engineering systems that enable robots to understand and participate in our world
+- [Cerebri AI](https://cerebri.com/) - Bringing Science to the Art of Decision Making.
+- [Clarifai](https://clarifai.com/) - Sophisticated machine learning to classify images/videos.
+- [DeepPixel](http://www.deeppixel.ai/) - Next generation Cognitive Engine for Natural Language Applications.
+- [Diligen](https://www.diligensoftware.com/) - Machine learning powered contract review and collaborative project management.
+- [Firebird](https://angel.co/project-firebird) - Quantum machine intelligence.
+- [Kindred](https://www.kindred.ai/) - Exploring and engineering systems that enable robots to understand and participate in our world.
+- [Knote](https://knote.me/) - Natural Language Processing to Automate Routine Work.
+- [Morrow](http://www.morrow.co/) - The personal productivity AI who helps you do work that matters.
+- [Naborly](https://naborly.co/) - Data-Driven Tenant Screening.
+- [Noq](http://www.thenoq.com/) - Mobile messanging app using a revolutionary AI-powered sharing process.
 - [Pax Cultura](https://paxculturastudios.com/) - Software design and programming that invests in original product development.
-- [Rubikloud](http://rubikloud.com/) - Empowering Retailers with Data-Driven Decisions
-- [Verve.ai](http://verve.ai) - Augmented Intelligence Automation for Customer Centric Companies
-- [Zoom.ai](http://zoom.ai) - Automated Assistant for Everyone in the Office
-- [see more on AngelList](https://angel.co/companies?locations[]=1702-Toronto&keywords=artificial+intelligence)
+- [PetBot](http://petbot.com/) - Uses artificial intelligence to recognize pets and allow two-way interaction instead of surveillance.
+- [Rubikloud](http://rubikloud.com/) - Empowering Retailers with Data-Driven Decisions.
+- [Rumble](http://rumble.com) - Open video platform with rights management technology using a machine learning DRM algorithm.
+- [Sym.ai](http://sym.ai) - custom built platform and management system for the creation of industry specific bots.
+- [TapWealth](http://tapwealth.co/) - Learns your spending and income patterns, saves money to help you reach your goals.
+- [Verve.ai](http://verve.ai) - Augmented Intelligence Automation for Customer Centric Companies.
+- [VISR](http://visr.co) - Utilizing AI to detect and alert parents to emerging safety and wellness issues children are facing online.
+- [WatrHub](http://www.watrhub.com/) - AI-powered market intelligence for water infrastructure sales process.
+- [Zoom.ai](http://zoom.ai) - Automated Assistant for Everyone in the Office.
 
 ### Influencers
 - Abraham Heifets
