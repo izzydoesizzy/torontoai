@@ -34,6 +34,7 @@ Click on the following links to skip to the relevant section.
 - [DeepPixel](http://www.deeppixel.ai/) - Next generation Cognitive Engine for Natural Language Applications.
 - [Diligen](https://www.diligensoftware.com/) - Machine learning powered contract review and collaborative project management.
 - [Firebird](https://angel.co/project-firebird) - Quantum machine intelligence.
+- [Humonix](http://humonix.com/) - A new-age management consultancy and innovation lab focusing on how AI will propel the world forward.
 - [Kindred](https://www.kindred.ai/) - Exploring and engineering systems that enable robots to understand and participate in our world.
 - [Knote](https://knote.me/) - Natural Language Processing to Automate Routine Work.
 - [Morrow](http://www.morrow.co/) - The personal productivity AI who helps you do work that matters.
