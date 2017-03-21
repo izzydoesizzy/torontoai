@@ -40,6 +40,7 @@ Click on the following links to skip to the relevant section.
 - [Morrow](http://www.morrow.co/) - The personal productivity AI who helps you do work that matters.
 - [Naborly](https://naborly.co/) - Data-Driven Tenant Screening.
 - [Noq](http://www.thenoq.com/) - Mobile messanging app using a revolutionary AI-powered sharing process.
+- [Nudge.ai](http://www.nudge.ai/) - Sales platform that uses AI to provide actionable insights on target customers.
 - [Pax Cultura](https://paxculturastudios.com/) - Software design and programming that invests in original product development.
 - [PetBot](http://petbot.com/) - Uses artificial intelligence to recognize pets and allow two-way interaction instead of surveillance.
 - [Rubikloud](http://rubikloud.com/) - Empowering Retailers with Data-Driven Decisions.
@@ -61,6 +62,8 @@ Click on the following links to skip to the relevant section.
 - Matt Zeiler
 - Raquel Urtasun
 - Sanja Fidler
+- Paul Teshima
+- Steve Woods
 
 ### Conferences	
 - [AI Toronto](http://www.aitoronto.org/)	
