@@ -10,7 +10,9 @@ Click on the following links to skip to the relevant section.
 - [Influencers](#influencers)
 - [Conferences](#conferences)
 - [Startup Incubators](#incubators)
-- [Learning Resources](#learning)
+- [Learning Resources](#learning)  
+  
+**[Bonus: Artificial Intelligence Apps + Startups on ProductHunt](https://www.producthunt.com/topics/artificial-intelligence)**
 
 <hr>
 
